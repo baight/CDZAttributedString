@@ -1,0 +1,22 @@
+{
+  "name": "CDZAttributedString",
+  "version": "0.1.0",
+  "summary": "A short description of CDZAttributedString.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/baight/CDZAttributedString",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenzheng": "baight.chen@ximalaya.com"
+  },
+  "source": {
+    "git": "https://github.com/chenzheng/CDZAttributedString.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CDZAttributedString/Classes/**/*"
+}

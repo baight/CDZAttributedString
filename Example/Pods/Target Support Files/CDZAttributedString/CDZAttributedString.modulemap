@@ -1,0 +1,6 @@
+framework module CDZAttributedString {
+  umbrella header "CDZAttributedString-umbrella.h"
+
+  export *
+  module * { export * }
+}

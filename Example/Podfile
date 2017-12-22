@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CDZAttributedString_Example' do
+  pod 'CDZAttributedString', :path => '../'
+
+  target 'CDZAttributedString_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
